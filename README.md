@@ -1,4 +1,4 @@
-<p><h1>Aman Sunar</h1>Seattle, WA - linkedin.com/in/amansunar/</p>
+<h1>Aman Sunar<br><h2>Cybersecurity Enthusiastic | Microsoft Certified: Security Operations Analyst Associate | ISC2- Certified in Cybersecurity</h2></h1>Seattle, WA<br><a href="https://www.linkedin.com/in/amansunar/)">Linkedln</a></p>
 Experienced System Administrator and Technical Lead with a Bachelor of Science in Cybersecurity and Digital Forensics and Associate of Science in Network Security Engineering. Proficient in Systems Administration, incident response, and team leadership, with a successful track record of
 managing the upgrade of thousands of Windows computers, ensuring software dependency, data transfer, security, and compliance adherence through effective group policies and security measures.
 <br><br>
