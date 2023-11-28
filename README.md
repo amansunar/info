@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @amansunar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 <p><h1>Aman Sunar</h1>Seattle, WA - linkedin.com/in/amansunar/</p>
 Experienced System Administrator and Technical Lead with a Bachelor of Science in Cybersecurity and Digital Forensics and Associate of Science in Network Security Engineering. Proficient in Systems Administration, incident response, and team leadership, with a successful track record of
 managing the upgrade of thousands of Windows computers, ensuring software dependency, data transfer, security, and compliance adherence through effective group policies and security measures.
@@ -61,7 +56,4 @@ managing the upgrade of thousands of Windows computers, ensuring software depend
     </ul>
         </li>
             </ul>
-<!---
-amansunar/amansunar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
